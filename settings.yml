@@ -1,0 +1,7 @@
+homepage:
+  default: 'discovery.latest'
+  type: enum
+  choices:
+    - discovery.latest
+    - discovery.top
+    - discovery.categories
